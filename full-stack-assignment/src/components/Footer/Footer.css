@@ -1,0 +1,31 @@
+.footer{
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 40px ;
+}
+.link-data{
+    /* width: 90%; */
+   
+}
+
+.footer-details{
+    
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+
+}
+
+.footer-details p{
+    font-size: 12px;
+   
+}
+
+.footer-details-1{
+    margin-bottom: 10px;
+}
+.footer-detail-3{
+    margin-top: 120px;
+}

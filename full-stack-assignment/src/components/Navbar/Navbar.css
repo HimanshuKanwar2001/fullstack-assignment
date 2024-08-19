@@ -1,0 +1,17 @@
+.navbar{
+    background: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 10%;
+    color: white;
+}
+
+.nav-btn button{
+    background-color: rgb(31, 30, 30);
+    color: white;
+    border: 1px solid rgb(110, 107, 107);
+    padding: 6px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
